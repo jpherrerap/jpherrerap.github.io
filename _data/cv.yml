@@ -8,11 +8,11 @@
     - name: Languages
       value: English, German
 
-- title: Education
+- title: educación
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: Ingeniero Civil en Computación
+      institution: Universidad de Chile
       year: 1905
       description:
         - Description 1.
