@@ -2,4 +2,6 @@ github_users:
   - jpherrerap
 
 github_repos:
+  - jpherrerap/stgo_public_transport_profiling
   - jpherrerap/nlp-assignments
+  - jpherrerap/dl-assignments
