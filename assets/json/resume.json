@@ -28,7 +28,7 @@
       "position": "Pasante",
       "startDate": "2023-02-01",
       "endDate": "2023-05-31",
-      "summary": "Desarollo de un repositorio de datos (data wharehouse) a partir de múltiples fuentes, con el fin de ser utilizado posteriormente por investigadores.",
+      "summary": "Desarollo de un repositorio de datos (data warehouse) a partir de múltiples fuentes, con el fin de ser utilizado posteriormente por investigadores.",
       "highlights": [
         "Python",
         "SQL",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "FCFM, Universidad de Chile",
+      "name": "Departamento de Ciencias de la Computación, Universidad de Chile",
       "position": "Ayudante",
       "startDate": "2022-08",
       "endDate": "2022-12",
@@ -47,7 +47,7 @@
     },
     {
       "name": "SGS",
-      "position": "Practicante",
+      "position": "Apoyo TI",
       "startDate": "2022-01-01",
       "endDate": "2022-02-31",
       "summary": "Apoyo en desarrollo de dashboards y mantención de bases de datos. Despliegue de workflow para automatización de solicitudes.",
