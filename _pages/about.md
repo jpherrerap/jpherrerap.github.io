@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Estudiante de Ingeniería Civil en Computación en la Universidad de Chile. Interesado principalmente en Deep Learning y ciencia de datos aplicada a diversos campos, así como desarollo de software innovador. Apasionado por aprender.
+Estudiante de Ingeniería Civil en Computación en la Universidad de Chile. Interesado en Deep Learning, ciencia de datos aplicada a diversos campos y desarollo de software innovador en general. Apasionado por aprender.
